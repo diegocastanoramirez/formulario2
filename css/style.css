@@ -1,9 +1,14 @@
 body{background-color:crimson;}
 
+
 h1{
     text-align: center;
     font-size: 36px;
     color: aliceblue;
 }
 
-.banner{width: 100%; height: 400px;}
+.banner{width: 100%; height: 600px;}
+
+.perros{width: 24.2%; height: 300px; margin: 5px;}
+
+main>section>p{color: aliceblue;}
